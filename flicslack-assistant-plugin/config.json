@@ -1,0 +1,17 @@
+{
+	"pluginName": "FlicSlack Assistant",
+	"pluginDescription": "Control Slack window focus and microphone mute with Flic",
+	"pluginReadMore": "\"FlicSlack Assistant\" is a powerful plugin that seamlessly integrates the Flic button with Slack, enhancing your Slack experience. With this plugin, you can effortlessly control Slack functionalities, such as moving the Slack window in focus and toggling the microphone during Slack Huddle calls. Simplify your interactions and boost your productivity with the FlicSlack Assistant.",
+	"protocolVersion": 1,
+	"actions":
+	[
+		{
+			"actionName": "Show Slack window",
+			"fileName": "slack_window_focus.sh"
+		},
+		{
+			"actionName": "Mute/unmute mic while Huddle call",
+			"fileName": "huddle_mute_unmute.sh"
+		}
+	]
+}
