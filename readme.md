@@ -3,7 +3,8 @@
 
 ## Actions
  * _Show Slack window_ - moves the Slack window in focus.
- * _Mute/unmute mic while Huddle call_ - toggles the microphone during Slack Huddle calls. 
+ * _Toggle huddles mute / unmute_
+ * _Toggle huddles start / stop_
 
 ## Installation
  1. Download or checkout repository.

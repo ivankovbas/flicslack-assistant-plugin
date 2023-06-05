@@ -10,8 +10,12 @@
 			"fileName": "slack_window_focus.sh"
 		},
 		{
-			"actionName": "Mute/unmute mic while Huddle call",
+			"actionName": "Toggle huddles mute / unmute",
 			"fileName": "huddle_mute_unmute.sh"
+		},
+		{
+			"actionName": "Toggle huddles start / stop",
+			"fileName": "huddle_start_stop.sh"
 		}
 	]
 }
